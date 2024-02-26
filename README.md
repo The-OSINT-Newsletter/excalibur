@@ -1,5 +1,3 @@
-My apologies for the oversight. Here's the corrected README content:
-
 # Excalibur
 
 Excalibur is a powerful OSINT (Open Source Intelligence) tool designed to assist in the collection and analysis of social media profiles. It checks if a Twitter username is archived and fetches profiles from various social media platforms, including Product Hunt, Medium, and Mastodon.
